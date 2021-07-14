@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   root 'pages#one'
   get 'pages/one'
   get 'pages/two'
+  get 'pages/three'
   get 'home/index'
   
   get 'contact', to: 'home#contact'
