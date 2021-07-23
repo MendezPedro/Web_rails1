@@ -1,5 +1,5 @@
 #link de heroku
-https://dashboard.heroku.com/apps/stormy-sands-13347
+https://stormy-sands-13347.herokuapp.com/
 
 # README
 
